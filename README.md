@@ -1,6 +1,6 @@
 SelectBox
 ==========
-design select library based on <select> tag
+design select library based on select tag
 
 # Initialize
 single version not `Hanatour`
